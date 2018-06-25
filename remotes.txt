@@ -1,0 +1,4 @@
+# REPLACE THIS WITH THE TFS Artifactory URL (True is SSL)
+conan-center https://conan.bintray.com True
+# Maybe
+artifactory https://tfs.url.artifactory True|False (depends on SSL)
