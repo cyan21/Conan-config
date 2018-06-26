@@ -1,2 +1,2 @@
 conan-center https://conan.bintray.com True
-artifactory http://yodafrog.sas.jfrog.internal:8081 False
+artifactory http://yodafrog.sas.jfrog.internal:8081/artifactory/conan-tfs-local False
