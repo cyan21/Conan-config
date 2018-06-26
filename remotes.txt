@@ -1,4 +1,2 @@
-# REPLACE THIS WITH THE TFS Artifactory URL (True is SSL)
 conan-center https://conan.bintray.com True
-# Maybe
 artifactory http://yodafrog.sas.jfrog.internal:8081 False
